@@ -1,2 +1,2 @@
 # JavaSocketingAround
-A very very basic sample for socketing
+A very very basic sample for socketing!
